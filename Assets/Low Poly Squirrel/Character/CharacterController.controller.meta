@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 926a36d8d0a833a4fa7aff6c220fc8d3
+timeCreated: 1537467289
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128985
+  packageName: Stylized Squirrel
+  packageVersion: 1.0
+  assetPath: Assets/Low Poly Squirrel/Character/CharacterController.controller
+  uploadId: 269692

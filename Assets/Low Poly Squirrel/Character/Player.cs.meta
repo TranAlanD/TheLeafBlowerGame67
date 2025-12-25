@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 381b0d164c49b6b47ae816c0a08dc5ab
+timeCreated: 1537467286
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128985
+  packageName: Stylized Squirrel
+  packageVersion: 1.0
+  assetPath: Assets/Low Poly Squirrel/Character/Player.cs
+  uploadId: 269692
