@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fe03953c48ddac2458200decfcb21077
+timeCreated: 1538150602
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128985
+  packageName: Stylized Squirrel
+  packageVersion: 1.0
+  assetPath: Assets/Low Poly Squirrel/Squirrel_02.prefab
+  uploadId: 269692

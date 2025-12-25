@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f570e76da7cdc6479566b0936784d06
+timeCreated: 1538150744
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128985
+  packageName: Stylized Squirrel
+  packageVersion: 1.0
+  assetPath: Assets/Low Poly Squirrel/Animations.txt
+  uploadId: 269692

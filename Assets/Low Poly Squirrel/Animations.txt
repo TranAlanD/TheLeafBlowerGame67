@@ -1,0 +1,24 @@
+(10-35) Run straight
+(35-75) Walk straight
+(85-175) Idle 1
+(185-320) Idle 2
+(330-465) Idle 3
+(475-500) Eat start
+(500-670) Eat loop
+(670-695) Eat end
+(705-737) Hop
+(745-775) Jump start
+(775-833) Jump loop
+(833-852) Jump end
+(860-928) Sleep start
+(928-980) Sleep loop
+(980-1048) Sleep end
+(1060-1085) Run turn right
+(1095-1120) Run turn left
+(1130-1160) Walk turn left
+(1170-1200) Walk turn right
+(1210-1240) Turn around right
+(1250-1280) Turn around left
+(1290-1315) Climb straight
+(1325-1350) Climb turn right
+(1360-1385) Climb turn left

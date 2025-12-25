@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6c58f2f9e81d8e44282de93088f5de02
+timeCreated: 1538150252
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128985
+  packageName: Stylized Squirrel
+  packageVersion: 1.0
+  assetPath: Assets/Low Poly Squirrel/Character/Materials/03_Squirrel_Mat.mat
+  uploadId: 269692
